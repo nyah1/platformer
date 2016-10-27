@@ -35,7 +35,10 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        //collectable.create(type.steve, 200, 170, 6, 0.7);
+        collectable.create(type.steve, 200, 170, 6, 0.7);
+        collectable.create(type.kennedi, 350, 200, 2, 1.1)
+        collectable.create(type.max, 343, 78, 5, .85)
+        collectable.create(type.grace, 180, 100, 4, 3)
         
         
         
